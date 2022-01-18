@@ -1,0 +1,12 @@
+product
+mpn
+total sold
+stock
+pref.stock
+waiting list
+quantity to order
+waiting
+price/unit
+total
+ordered by customer
+einai elegmeno
